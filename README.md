@@ -1,4 +1,4 @@
-<align="centre">Demo:https://cricbuzzclone.netlify.app/ </>
+<style="align:centre"> Demo:https://cricbuzzclone.netlify.app/ </>
 
 
 ![Screenshot from 2023-04-03 11-38-34](https://user-images.githubusercontent.com/24763499/229425391-be285081-d703-4f2f-9b07-e9b23620c73e.png)
